@@ -28,11 +28,12 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 ![](./screenshot1.jpg)
+![](./screenshot2.jpg)
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [live site ](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/nishanth1596/-Four-card-feature-section-)
+- Live Site URL: [live site ](https://nishanth1596.github.io/-Four-card-feature-section-/)
 
 ## My process
 
